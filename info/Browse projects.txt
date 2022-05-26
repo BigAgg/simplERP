@@ -1,0 +1,9 @@
+#### Browse projects ####
+
+Used for:
+- listing all existing project(s)
+- search for existing project(s)
+- edit project
+- customizing article tree
+
+Simply edit your projects, see it's contents and add or remove content.

@@ -1,0 +1,9 @@
+#### Create articles ####
+
+Used for:
+- creating new article number(s)
+- adding article to existing project(s)
+- create custom info (shipment, price, etc.)
+
+Create your articles with a few clicks and simply add them
+to existing projects if needed to.

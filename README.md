@@ -2,7 +2,7 @@
 A simple ERP program using Python and PySimpleGUI
 
 WORK IN PROGRESS!!
-This project is not finished yet so i don't recommend using it right now.
+This project is not finished yet so I don't recommend using it right now.
 I will keep this file up to date and keep the checklist going.
 I plan to finish this ERP in about 2 years or so, depends on my freetime...
 
